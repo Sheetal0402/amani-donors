@@ -1,0 +1,12 @@
+{
+  "name": "Demo NGO",
+  "logoUrl": "/assets/tenants/demo-ngo/logo.svg",
+  "primaryColor": "#673AB7",
+  "accentColor": "#E91E63",
+  "textBlocks": {
+    "welcomeMessage": "Welcome to Demo NGO - Your demonstration organization for testing and learning.",
+    "aboutUs": "Demo NGO is a sample organization created for demonstration purposes. Use this tenant to explore features and test functionality.",
+    "missionStatement": "To demonstrate the power of technology in supporting non-profit organizations and their mission to create positive change.",
+    "contactInfo": "This is a demo organization. In a real setup, this would contain actual contact information and support details."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Amani Foundation",
+  "logoUrl": "/assets/tenants/amani/logo.svg",
+  "primaryColor": "#2E7D32",
+  "accentColor": "#FF6F00",
+  "textBlocks": {
+    "welcomeMessage": "Welcome to Amani Foundation - Building bridges of hope and opportunity across East Africa.",
+    "aboutUs": "Amani Foundation is dedicated to sustainable development and community empowerment in Kenya, Tanzania, and Uganda. We focus on education, healthcare, and economic development initiatives.",
+    "missionStatement": "To empower communities through sustainable development, education, and healthcare initiatives that create lasting positive change in East Africa.",
+    "contactInfo": "Contact us at info@amani.org or +254-700-123456 for more information about our programs and volunteer opportunities."
+  }
+}

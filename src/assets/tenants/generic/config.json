@@ -1,0 +1,12 @@
+{
+  "name": "Generic NGO",
+  "logoUrl": "/assets/tenants/generic/logo.svg",
+  "primaryColor": "#1976D2",
+  "accentColor": "#FFC107",
+  "textBlocks": {
+    "welcomeMessage": "Welcome to our organization - Making a difference in communities worldwide.",
+    "aboutUs": "We are a non-profit organization committed to creating positive change through various community programs and initiatives.",
+    "missionStatement": "To improve lives and strengthen communities through dedicated service, innovative programs, and collaborative partnerships.",
+    "contactInfo": "Reach out to us at contact@generic-ngo.org or visit our website for more information about our work."
+  }
+}
