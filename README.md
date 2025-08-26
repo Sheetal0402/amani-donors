@@ -33,17 +33,17 @@ The application will open automatically at `http://localhost:4200`.
 ## 🔑 Demo Accounts
 
 ### Amani International
-- **Admin**: admin@amani.org / password123
-- **Staff**: staff@amani.org / password123
-- **Donor**: donor@amani.org / password123
+- **Admin**: admin@amani.org
+- **Staff**: staff@amani.org
+- **Donor**: donor@amani.org
 
 ### Generic NGO
-- **Admin**: admin@generic.org / password123
-- **Donor**: donor@generic.org / password123
+- **Admin**: admin@generic.org
+- **Donor**: donor@generic.org
 
 ### Demo NGO
-- **Admin**: admin@demo.org / password123
-- **Donor**: donor@demo.org / password123
+- **Admin**: admin@demo.org
+- **Donor**: donor@demo.org
 
 ## 🛠 Development
 
