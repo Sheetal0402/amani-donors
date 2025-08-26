@@ -1,4 +1,4 @@
-# Amani Donors Demo
+# Amani Donors
 
 A comprehensive multi-tenant donor management application built with Angular 20 and Angular Material. Features trip planning, promise tracking, and organizational branding with mobile-first responsive design.
 
